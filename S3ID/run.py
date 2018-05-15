@@ -1,7 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import scipy as sp
-import glob, os, psutil, time
 
 from S3ID import main, print_slim, ObservationScheme, principal_angle
 
